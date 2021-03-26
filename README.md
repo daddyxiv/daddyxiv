@@ -1,4 +1,8 @@
-- hi, im xiv
-- 18 years old
-- maintaining my projects on these langs:
-react, vue, nodejs, purejs, c, c++ and more
+```
+🤺 hi, im xiv
+🐼 he/him
+💀 18 yo
+🐱‍👤 full stack
+
+#FreePrivateRepos 🙅‍♂️
+```
